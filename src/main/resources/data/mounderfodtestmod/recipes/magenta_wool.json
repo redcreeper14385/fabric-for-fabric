@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "FFF",
+      "FFF",
+      "FFF"
+    ],
+    "key": {
+      "F": {
+        "item": "fabricforfabric:magenta_fabric"
+      }
+    },
+    "result": {
+      "item": "minecraft:magenta_wool",
+      "count": 1
+    }
+  }

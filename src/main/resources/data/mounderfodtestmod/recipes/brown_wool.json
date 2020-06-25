@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "FFF",
+      "FFF",
+      "FFF"
+    ],
+    "key": {
+      "F": {
+        "item": "fabricforfabric:brown_fabric"
+      }
+    },
+    "result": {
+      "item": "minecraft:brown_wool",
+      "count": 1
+    }
+  }

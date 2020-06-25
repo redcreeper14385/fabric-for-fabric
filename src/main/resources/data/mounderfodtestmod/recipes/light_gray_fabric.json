@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:light_gray_wool"
+        }
+    ],
+    "result": {
+        "item": "fabricforfabric:light_gray_fabric",
+        "count": 9
+    }
+}

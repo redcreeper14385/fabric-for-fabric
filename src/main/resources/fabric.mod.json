@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 1,
+  "id": "fabricforfabric",
+  "version": "${version}",
+
+  "name": "Fabric for Fabric!",
+  "description": "A Fabric mod which adds fabric!",
+  "authors": [
+    "mounderfod - Developer",
+    "malcomriley - Provided textures"
+  ],
+  "contact": {
+    "sources": "https://github.com/redcreeper14385/fabric-for-fabric"
+  },
+
+  "license": "CC-BY-NC-ND-4.0",
+  "icon": "assets/fabricforfabric/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "net.fabricforfabric.TestMod"
+    ]
+  },
+  "mixins": [
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.7.4",
+    "fabric": "*",
+    "minecraft": "1.16.x"
+  },
+  "suggests": {
+    "flamingo": "*"
+  }
+}
