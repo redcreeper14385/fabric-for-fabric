@@ -6,7 +6,7 @@ import net.minecraft.item.ItemGroup;
 import net.minecraft.util.Identifier;
 import net.minecraft.util.registry.Registry;
 
-public class TestMod implements ModInitializer{
+public class FabricForFabric implements ModInitializer{
 
     public static final Item BLACK_FABRIC = new Item(new Item.Settings().group(ItemGroup.MATERIALS));
     public static final Item BLUE_FABRIC = new Item(new Item.Settings().group(ItemGroup.MATERIALS));
