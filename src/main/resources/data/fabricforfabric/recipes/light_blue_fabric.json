@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:light_blue_wool"
+        }
+    ],
+    "result": {
+        "item": "fabricforfabric:light_blue_fabric",
+        "count": 9
+    }
+}

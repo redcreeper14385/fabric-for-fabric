@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "FFF",
+      "FFF",
+      "FFF"
+    ],
+    "key": {
+      "F": {
+        "item": "fabricforfabric:yellow_fabric"
+      }
+    },
+    "result": {
+      "item": "minecraft:yellow_wool",
+      "count": 1
+    }
+  }

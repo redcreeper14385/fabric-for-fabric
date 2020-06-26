@@ -1,0 +1,22 @@
+{
+    "replace": false,
+    "values": [
+        "fabricforfabric:black_fabric",
+        "fabricforfabric:blue_fabric",
+        "fabricforfabric:brown_fabric",
+        "fabricforfabric:cyan_fabric",
+        "fabricforfabric:gray_fabric",
+        "fabricforfabric:green_fabric",
+        "fabricforfabric:light_blue_fabric",
+        "fabricforfabric:light_gray_fabric",
+        "fabricforfabric:lime_fabric",
+        "fabricforfabric:magenta_fabric",
+        "fabricforfabric:orange_fabric",
+        "fabricforfabric:pink_fabric",
+        "fabricforfabric:purple_fabric",
+        "fabricforfabric:red_fabric",
+        "fabricforfabric:white_fabric",
+        "fabricforfabric:yellow_fabric"
+
+    ]
+}
