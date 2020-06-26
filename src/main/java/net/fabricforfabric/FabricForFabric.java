@@ -24,6 +24,7 @@ public class FabricForFabric implements ModInitializer{
     public static final Item LIGHT_GRAY_FABRIC = new Item(new Item.Settings().group(ItemGroup.MATERIALS));
     public static final Item WHITE_FABRIC = new Item(new Item.Settings().group(ItemGroup.MATERIALS));
     public static final Item YELLOW_FABRIC = new Item(new Item.Settings().group(ItemGroup.MATERIALS));
+    public static final Item FAUX_LEATHER = new Item(new Item.Settings().group(ItemGroup.MATERIALS));
 
     @Override
     public void onInitialize() {
@@ -43,6 +44,7 @@ public class FabricForFabric implements ModInitializer{
         Registry.register(Registry.ITEM, new Identifier("fabricforfabric", "light_gray_fabric"), LIGHT_GRAY_FABRIC);
         Registry.register(Registry.ITEM, new Identifier("fabricforfabric", "white_fabric"), WHITE_FABRIC);
         Registry.register(Registry.ITEM, new Identifier("fabricforfabric", "yellow_fabric"), YELLOW_FABRIC);
+        Registry.register(Registry.ITEM, new Identifier("fabricforfabric", "faux_leather"), FAUX_LEATHER);
 
 
     }
