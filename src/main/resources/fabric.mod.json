@@ -13,7 +13,7 @@
     "sources": "https://github.com/redcreeper14385/fabric-for-fabric"
   },
 
-  "license": "CC-BY-SA-4.0",
+  "license": "MIT",
   "icon": "assets/fabricforfabric/icon.png",
 
   "environment": "*",
