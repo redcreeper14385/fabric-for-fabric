@@ -19,7 +19,7 @@
   "environment": "*",
   "entrypoints": {
     "main": [
-      "net.fabricforfabric.TestMod"
+      "net.fabricforfabric.FabricForFabric"
     ]
   },
   "mixins": [
@@ -31,6 +31,5 @@
     "minecraft": "1.16.x"
   },
   "suggests": {
-    "flamingo": "*"
   }
 }
