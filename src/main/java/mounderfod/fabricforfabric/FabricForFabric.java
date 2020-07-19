@@ -1,4 +1,4 @@
-package net.fabricforfabric;
+package mounderfod.fabricforfabric;
 
 import net.fabricmc.api.ModInitializer;
 import net.minecraft.item.Item;
