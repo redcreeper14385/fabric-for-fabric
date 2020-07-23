@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "id": "fabricforfabric",
-  "version": "${version}",
+  "version": "1.2.2",
 
   "name": "Fabric for Fabric!",
   "description": "A Fabric mod which adds fabric!",
