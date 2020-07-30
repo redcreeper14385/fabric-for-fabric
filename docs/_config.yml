@@ -1,3 +1,4 @@
 theme: jekyll-theme-cayman
 title: Fabric For Fabric Mod
 description: A Minecraft mod for 1.16!
+show_downloads: true
