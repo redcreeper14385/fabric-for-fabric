@@ -1,8 +1,5 @@
 theme: jekyll-theme-cayman
 title: Fabric For Fabric Mod
 description: A Minecraft mod for 1.16!
-show_downloads: true
-github:
-  zip_url: github.com/redcreeper14385/fabric-for-fabric/releases/download/1.2.3-ZIP/mounderfod-fabric-for-fabric-1.2.3.zip
-  tar_url: github.com/redcreeper14385/fabric-for-fabric/releases/download/1.2.3-TAR.GZ/mounderfod-fabric-for-fabric-1.2.3.tar.gz
+show_downloads: false
 
