@@ -3,5 +3,5 @@ title: Fabric For Fabric Mod
 description: A Minecraft mod for 1.16!
 show_downloads: true
 github:
-  jar_url: github.com/redcreeper14385/fabric-for-fabric/releases/latest
+  zip_url: https://github.com/redcreeper14385/fabric-for-fabric/releases/download/1.2.3/mounderfod-fabric-for-fabric-1.2.3.jar
 
