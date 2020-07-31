@@ -2,5 +2,5 @@ theme: jekyll-theme-cayman
 title: Fabric For Fabric
 description: A Minecraft mod for 1.16.1, which adds pacifist methods of obtaining leather, string and more.
 github:
-  is_project_page: false
+  is_project_page: true
 
