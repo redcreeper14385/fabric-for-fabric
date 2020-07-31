@@ -35,4 +35,12 @@ Version 1.1.0 for 1.16.1: [Download .jar](https://github.com/redcreeper14385/fab
 Version 1.0.1 for 1.16.1: [Download .jar](https://github.com/redcreeper14385/fabric-for-fabric/releases/download/1.0.1/mounderfod-fabric-for-fabric-1.0.1.jar) <br>
 Version 1.0.0 for 1.16.1: [Download .jar](https://github.com/redcreeper14385/fabric-for-fabric/releases/download/1.0.0/mounderfod-fabric-for-fabric-1.0.0.jar)
 
-
+| Version Number | Working? | MC Version | Download Link                                                                                                                        | Notes          |
+|----------------|----------|------------|--------------------------------------------------------------------------------------------------------------------------------------|----------------|
+| 1.2.3          | YES      | 1.16.1     | [Download .jar](https://github.com/redcreeper14385/fabric-for-fabric/releases/download/1.2.3/mounderfod-fabric-for-fabric-1.2.3.jar) | Latest release |
+| 1.2.2          | YES      | 1.16.1     | [Download .jar](https://github.com/redcreeper14385/fabric-for-fabric/releases/download/1.2.2/mounderfod-fabric-for-fabric-1.2.2.jar) |                |
+| 1.2.1          | YES      | 1.16.1     | [Download .jar](https://github.com/redcreeper14385/fabric-for-fabric/releases/download/1.2.1/mounderfod-fabric-for-fabric-1.2.1.jar) |                |
+| 1.2.0          | NO       | 1.16.1     | [Download .jar](https://github.com/redcreeper14385/fabric-for-fabric/releases/download/1.2.0/mounderfod-fabric-for-fabric-1.2.0.jar) |                |
+| 1.1.0          | YES      | 1.16.1     | [Download .jar](https://github.com/redcreeper14385/fabric-for-fabric/releases/download/1.1.0/mounderfod-fabric-for-fabric-1.1.0.jar) |                |
+| 1.0.1          | YES      | 1.16.1     | [Download .jar](https://github.com/redcreeper14385/fabric-for-fabric/releases/download/1.0.1/mounderfod-fabric-for-fabric-1.0.1.jar) |                |
+| 1.0.0          | YES      | 1.16.1     | [Download .jar](https://github.com/redcreeper14385/fabric-for-fabric/releases/download/1.0.0/mounderfod-fabric-for-fabric-1.0.0.jar) |                |
