@@ -26,7 +26,7 @@ Requires 1.16.1 and the Fabric Mod Loader. <br> <br> <img src="https://i.imgur.c
 # Credits
 Thanks to everyone who helped me on the Fabric Discord server, and to /u/MCThe_Paragon for the textures!
 
-# Downloads
+# Downloads <br>
 
 | Version Number | Working? | MC Version | Download Link                                                                                                                        | Notes                                                                                |
 |----------------|----------|------------|--------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|
