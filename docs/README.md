@@ -1,3 +1,5 @@
+[Jump To Downloads](#downloads)
+
 <img src="2020-07-31_11.28.22.png" height="300">
 
 # Fabric for Fabric!
@@ -23,3 +25,14 @@ Requires 1.16.1 and the Fabric Mod Loader. <br> <br> <img src="https://i.imgur.c
 
 # Credits
 Thanks to everyone who helped me on the Fabric Discord server, and to /u/MCThe_Paragon for the textures!
+
+# Downloads
+Version 1.2.3 for 1.16.1: [Download .jar](https://github.com/redcreeper14385/fabric-for-fabric/releases/download/1.2.3/mounderfod-fabric-for-fabric-1.2.3.jar)
+Version 1.2.2 for 1.16.1: [Download .jar](https://github.com/redcreeper14385/fabric-for-fabric/releases/download/1.2.2/mounderfod-fabric-for-fabric-1.2.2.jar)
+Version 1.2.1 for 1.16.1: [Download .jar](https://github.com/redcreeper14385/fabric-for-fabric/releases/download/1.2.1/mounderfod-fabric-for-fabric-1.2.1.jar)
+Version 1.2.0 for 1.16.1: [Download .jar](https://github.com/redcreeper14385/fabric-for-fabric/releases/download/1.2.0/mounderfod-fabric-for-fabric-1.2.0.jar)
+Version 1.1.0 for 1.16.1: [Download .jar](https://github.com/redcreeper14385/fabric-for-fabric/releases/download/1.1.0/mounderfod-fabric-for-fabric-1.1.0.jar)
+Version 1.0.1 for 1.16.1: [Download .jar](https://github.com/redcreeper14385/fabric-for-fabric/releases/download/1.0.1/mounderfod-fabric-for-fabric-1.0.1.jar)
+Version 1.0.0 for 1.16.1: [Download .jar](https://github.com/redcreeper14385/fabric-for-fabric/releases/download/1.0.0/mounderfod-fabric-for-fabric-1.0.0.jar)
+
+
