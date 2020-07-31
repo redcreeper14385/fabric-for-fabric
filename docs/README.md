@@ -1,12 +1,14 @@
-# Fabric for Fabric!
+## Fabric for Fabric!
 ### NOTE: Downloads are at the bottom of the page.
+
+Join the Discord here: https://discord.gg/fwvZAdp
 
 This mod adds fabric to Fabric. One wool block makes 9 pieces of fabric, and 9 pieces of fabric make one wool block.
 One piece of fabric with one piece of bonemeal makes a piece of faux leather, which in turn can be converted to leather. Enjoy!
 
 <img src="2020-07-31_11.28.22.png" height="300">
 
-# Recipes 
+## Recipes 
 ### Fabric (can be converted back)
 <img src="2020-07-31_11.28.58-CROPPED.png" height="200">
 
@@ -19,13 +21,13 @@ One piece of fabric with one piece of bonemeal makes a piece of faux leather, wh
 ### String
 <img src="2020-07-31_11.29.30-CROPPED.png" height="200">
 
-# Dependencies
+## Dependencies
 Requires 1.16.1 and the Fabric Mod Loader. <br> <br> <img src="https://i.imgur.com/bTus4wH.png" alt="Requires Fabric API" height="50">
 
-# Credits
+## Credits
 Thanks to everyone who helped me on the Fabric Discord server, and to /u/MCThe_Paragon for the textures!
 
-# Downloads <br>
+## Downloads <br>
 
 | Version Number | Working? | MC Version | Download Link                                                                                                                        | Notes                                                                                |
 |----------------|----------|------------|--------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|
