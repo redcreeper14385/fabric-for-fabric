@@ -1,11 +1,10 @@
-### NOTE: Downloads are at the bottom of the page.
-
-<img src="2020-07-31_11.28.22.png" height="300">
-
 # Fabric for Fabric!
+### NOTE: Downloads are at the bottom of the page.
 
 This mod adds fabric to Fabric. One wool block makes 9 pieces of fabric, and 9 pieces of fabric make one wool block.
 One piece of fabric with one piece of bonemeal makes a piece of faux leather, which in turn can be converted to leather. Enjoy!
+
+<img src="2020-07-31_11.28.22.png" height="300">
 
 # Recipes 
 ### Fabric (can be converted back)
