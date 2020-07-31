@@ -5,7 +5,7 @@ One piece of fabric with one piece of bonemeal makes a piece of faux leather, wh
 
 # Recipes 
 ## Fabric
-<img src="2020-07-31_11.28.58-CROPPED.png">
+<img src="2020-07-31_11.28.58-CROPPED.png" height="200">
 
 # Dependencies
 Requires 1.16.1 and the Fabric Mod Loader. <br> <br> <img src="https://i.imgur.com/bTus4wH.png" alt="Requires Fabric API" height="50">
