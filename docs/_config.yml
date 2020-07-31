@@ -1,7 +1,6 @@
 theme: jekyll-theme-slate
 title: Fabric For Fabric
-page.title: Fabric for Fabric
-description: A Minecraft mod for 1.16!
+description: A Minecraft mod for 1.16.1, which adds pacifist methods of obtaining leather, string and more.
 github:
   is_project_page: false
 
