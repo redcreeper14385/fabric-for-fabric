@@ -8,10 +8,13 @@ One piece of fabric with one piece of bonemeal makes a piece of faux leather, wh
 # Recipes 
 ### Fabric (can be converted back)
 <img src="2020-07-31_11.28.58-CROPPED.png" height="200">
+
 ### Faux Leather
 <img src="2020-07-31_11.29.22-CROPPED.png" height="200">
+
 ### Leather
 <img src="2020-07-31_11.29.26-CROPPED.png" height="200">
+
 ### String
 <img src="2020-07-31_11.29.30-CROPPED.png" height="200">
 
