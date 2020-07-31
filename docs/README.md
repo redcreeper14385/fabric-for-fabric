@@ -1,4 +1,4 @@
-[Jump To Downloads](#downloads)
+### NOTE: Downloads are at the bottom of the page.
 
 <img src="2020-07-31_11.28.22.png" height="300">
 
