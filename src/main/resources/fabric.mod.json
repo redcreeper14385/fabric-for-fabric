@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "id": "fabricforfabric",
-  "version": "1.2.3",
+  "version": "1.2.4",
 
   "name": "Fabric for Fabric!",
   "description": "A Fabric mod which adds fabric!",
@@ -26,9 +26,9 @@
   ],
 
   "depends": {
-    "fabricloader": ">=0.7.4",
+    "fabricloader": ">=0.9.1",
     "fabric": "*",
-    "minecraft": "1.16.x"
+    "minecraft": "1.16.2"
   },
   "suggests": {
   }
