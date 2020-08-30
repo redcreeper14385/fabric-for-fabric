@@ -1,12 +1,10 @@
 {
-    "type": "minecraft:crafting_shapeless",
-    "ingredients": [
-        {
-            "item": "fabricforfabric:faux_leather"
-        }
-    ],
+    "type": "nbtcrafting:cauldron",
+    "input": {
+        "item": "fabricforfabric:faux_leather"
+    },
     "result": {
-        "item": "minecraft:leather",
-        "count": 1
-    }
+        "item": "minecraft:leather"
+    },
+    "levels": 1
 }

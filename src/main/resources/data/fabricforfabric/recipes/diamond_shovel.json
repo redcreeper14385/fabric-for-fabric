@@ -1,0 +1,21 @@
+{
+    "type": "crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:diamond_shovel"
+        },
+        { "item": "fabricforfabric:diamond_repair_kit" }
+    ],
+    "result": {
+        "item": "minecraft:diamond_shovel",
+        "data": {
+            "Damage": 0,
+            "$": {
+              "value": "i0",
+              "paths": {
+                "Damage": "keep"
+              }
+            } 
+          }
+    }
+}

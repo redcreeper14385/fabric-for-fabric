@@ -6,7 +6,7 @@ import net.minecraft.item.ItemGroup;
 import net.minecraft.util.Identifier;
 import net.minecraft.util.registry.Registry;
 
-public class FabricForFabric implements ModInitializer{
+public class FabricForFabric implements ModInitializer {
 
     public static final Item BLACK_FABRIC = new Item(new Item.Settings().group(ItemGroup.MATERIALS));
     public static final Item BLUE_FABRIC = new Item(new Item.Settings().group(ItemGroup.MATERIALS));
@@ -25,6 +25,9 @@ public class FabricForFabric implements ModInitializer{
     public static final Item WHITE_FABRIC = new Item(new Item.Settings().group(ItemGroup.MATERIALS));
     public static final Item YELLOW_FABRIC = new Item(new Item.Settings().group(ItemGroup.MATERIALS));
     public static final Item FAUX_LEATHER = new Item(new Item.Settings().group(ItemGroup.MATERIALS));
+    public static final Item IRON_REPAIR_KIT = new Item(new Item.Settings().group(ItemGroup.TOOLS));
+    public static final Item GOLD_REPAIR_KIT = new Item(new Item.Settings().group(ItemGroup.TOOLS));
+    public static final Item DIAMOND_REPAIR_KIT = new Item(new Item.Settings().group(ItemGroup.TOOLS));
 
     @Override
     public void onInitialize() {
@@ -45,8 +48,11 @@ public class FabricForFabric implements ModInitializer{
         Registry.register(Registry.ITEM, new Identifier("fabricforfabric", "white_fabric"), WHITE_FABRIC);
         Registry.register(Registry.ITEM, new Identifier("fabricforfabric", "yellow_fabric"), YELLOW_FABRIC);
         Registry.register(Registry.ITEM, new Identifier("fabricforfabric", "faux_leather"), FAUX_LEATHER);
+        Registry.register(Registry.ITEM, new Identifier("fabricforfabric", "iron_repair_kit"), IRON_REPAIR_KIT);
+        Registry.register(Registry.ITEM, new Identifier("fabricforfabric", "gold_repair_kit"), GOLD_REPAIR_KIT);
+        Registry.register(Registry.ITEM, new Identifier("fabricforfabric", "diamond_repair_kit"), DIAMOND_REPAIR_KIT);
+
 
 
     }
-    
 }

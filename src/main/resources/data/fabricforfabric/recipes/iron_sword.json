@@ -1,0 +1,21 @@
+{
+    "type": "crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:iron_sword"
+        },
+        { "item": "fabricforfabric:iron_repair_kit" }
+    ],
+    "result": {
+        "item": "minecraft:iron_sword",
+        "data": {
+            "Damage": 0,
+            "$": {
+              "value": "i0",
+              "paths": {
+                "Damage": "keep"
+              }
+            } 
+          }
+    }
+}

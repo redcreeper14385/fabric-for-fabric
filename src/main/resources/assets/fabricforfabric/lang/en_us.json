@@ -15,7 +15,9 @@
     "item.fabricforfabric.white_fabric": "White Fabric",
     "item.fabricforfabric.cyan_fabric": "Cyan Fabric",
     "item.fabricforfabric.yellow_fabric": "Yellow Fabric",
-    "item.fabricforfabric.faux_leather": "Faux Leather"
-
+    "item.fabricforfabric.faux_leather": "Faux Leather",
+    "item.fabricforfabric.diamond_repair_kit": "Diamond Repair Kit",
+    "item.fabricforfabric.iron_repair_kit": "Iron Repair Kit",
+    "item.fabricforfabric.gold_repair_kit": "Golden Repair Kit"
 
   }
