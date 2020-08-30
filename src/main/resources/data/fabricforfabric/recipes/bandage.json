@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " # ",
+        "#B#",
+        " # "
+    ],
+    "key": {
+        "#": {
+            "tag": "fabricforfabric:fabrics"
+        },
+        "B": {
+            "item": "minecraft:bread"
+        }
+    },
+    "result": {
+        "item": "fabricforfabric:bandage",
+        "count": 4
+    }
+}

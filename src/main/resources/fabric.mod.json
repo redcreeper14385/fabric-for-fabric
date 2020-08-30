@@ -6,8 +6,8 @@
   "name": "Fabric for Fabric!",
   "description": "A Fabric mod which adds fabric!",
   "authors": [
-    "mounderfod - Developer",
-    "malcomriley - Provided textures through his Reddit post."
+    "mounderfod",
+    "malcomriley (provided textures)"
   ],
   "contact": {
     "sources": "https://github.com/redcreeper14385/fabric-for-fabric"

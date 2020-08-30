@@ -1,6 +1,9 @@
 package mounderfod.fabricforfabric;
 
 import net.fabricmc.api.ModInitializer;
+import net.minecraft.entity.effect.StatusEffectInstance;
+import net.minecraft.entity.effect.StatusEffects;
+import net.minecraft.item.FoodComponent;
 import net.minecraft.item.Item;
 import net.minecraft.item.ItemGroup;
 import net.minecraft.util.Identifier;
@@ -29,6 +32,7 @@ public class FabricForFabric implements ModInitializer {
     public static final Item IRON_REPAIR_KIT = new Item(new Item.Settings().group(ItemGroup.TOOLS).maxCount(1).rarity(Rarity.UNCOMMON));
     public static final Item GOLD_REPAIR_KIT = new Item(new Item.Settings().group(ItemGroup.TOOLS).maxCount(1).rarity(Rarity.UNCOMMON));
     public static final Item DIAMOND_REPAIR_KIT = new Item(new Item.Settings().group(ItemGroup.TOOLS).maxCount(1).rarity(Rarity.UNCOMMON));
+    public static final Item BANDAGE = new Item(new Item.Settings().group(ItemGroup.TOOLS).maxCount(16).food(new FoodComponent.Builder().alwaysEdible().hunger(0).statusEffect(new StatusEffectInstance(StatusEffects.REGENERATION, 20*3), 1.0f).build()));
 
     @Override
     public void onInitialize() {
@@ -52,6 +56,7 @@ public class FabricForFabric implements ModInitializer {
         Registry.register(Registry.ITEM, new Identifier("fabricforfabric", "iron_repair_kit"), IRON_REPAIR_KIT);
         Registry.register(Registry.ITEM, new Identifier("fabricforfabric", "gold_repair_kit"), GOLD_REPAIR_KIT);
         Registry.register(Registry.ITEM, new Identifier("fabricforfabric", "diamond_repair_kit"), DIAMOND_REPAIR_KIT);
+        Registry.register(Registry.ITEM, new Identifier("fabricforfabric", "bandage"), BANDAGE);
 
 
 
