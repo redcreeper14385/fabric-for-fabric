@@ -4,6 +4,7 @@ import net.fabricmc.api.ModInitializer;
 import net.minecraft.item.Item;
 import net.minecraft.item.ItemGroup;
 import net.minecraft.util.Identifier;
+import net.minecraft.util.Rarity;
 import net.minecraft.util.registry.Registry;
 
 public class FabricForFabric implements ModInitializer {
@@ -25,9 +26,9 @@ public class FabricForFabric implements ModInitializer {
     public static final Item WHITE_FABRIC = new Item(new Item.Settings().group(ItemGroup.MATERIALS));
     public static final Item YELLOW_FABRIC = new Item(new Item.Settings().group(ItemGroup.MATERIALS));
     public static final Item FAUX_LEATHER = new Item(new Item.Settings().group(ItemGroup.MATERIALS));
-    public static final Item IRON_REPAIR_KIT = new Item(new Item.Settings().group(ItemGroup.TOOLS));
-    public static final Item GOLD_REPAIR_KIT = new Item(new Item.Settings().group(ItemGroup.TOOLS));
-    public static final Item DIAMOND_REPAIR_KIT = new Item(new Item.Settings().group(ItemGroup.TOOLS));
+    public static final Item IRON_REPAIR_KIT = new Item(new Item.Settings().group(ItemGroup.TOOLS).maxCount(1).rarity(Rarity.UNCOMMON));
+    public static final Item GOLD_REPAIR_KIT = new Item(new Item.Settings().group(ItemGroup.TOOLS).maxCount(1).rarity(Rarity.UNCOMMON));
+    public static final Item DIAMOND_REPAIR_KIT = new Item(new Item.Settings().group(ItemGroup.TOOLS).maxCount(1).rarity(Rarity.UNCOMMON));
 
     @Override
     public void onInitialize() {
