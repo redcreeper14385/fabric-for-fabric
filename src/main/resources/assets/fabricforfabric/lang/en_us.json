@@ -22,6 +22,9 @@
     "item.fabricforfabric.bandage": "Bandage",
     "item.fabricforfabric.gripped_diamond_pickaxe": "Diamond Pickaxe (Gripped)",
     "item.fabricforfabric.gripped_diamond_sword": "Diamond Sword (Gripped)",
-    "item.fabricforfabric.gripped_diamond_shovel": "Diamond Shovel (Gripped)"
+    "item.fabricforfabric.gripped_diamond_shovel": "Diamond Shovel (Gripped)",
+    "item.fabricforfabric.gripped_diamond_axe": "Diamond Axe (Gripped)",
+    "itemGroup.fabricforfabric.tools": "Fabric For Fabric: Tools & Items",
+    "itemGroup.fabricforfabric.materials": "Fabric For Fabric: Materials"
 
   }

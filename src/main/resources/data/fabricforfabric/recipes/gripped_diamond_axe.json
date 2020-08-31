@@ -13,11 +13,11 @@
             "tag": "fabricforfabric:fabrics"
         },
         "D": {
-            "item": "minecraft:diamond_shovel"
+            "item": "minecraft:diamond_axe"
         }
     },
     "result": {
-        "item": "fabricforfabric:gripped_diamond_shovel",
+        "item": "fabricforfabric:gripped_diamond_axe",
         "count": 1,
         "data": {
             "$": {
