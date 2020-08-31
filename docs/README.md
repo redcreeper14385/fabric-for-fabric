@@ -12,6 +12,8 @@ One piece of fabric with one piece of bonemeal makes a piece of faux leather, wh
 Check REI or the in-game recipe book for recipes.
 
 ## Other Features
+### Faux Leather -> Leather
+Right-click a cauldron with a piece of faux leather to convert it to real leather!
 ### Repair Kits
 Repair kits fully repair any tool, they can be crafted with fabric, some sticks, and two of the tool material (iron, gold or diamond).
 ### Bandages
