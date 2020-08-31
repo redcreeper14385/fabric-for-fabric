@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#D#"
+    ],
+    "key": {
+        "#": {
+            "tag": "fabricforfabric:fabrics"
+        },
+        "D": {
+            "item": "minecraft:diamond_sword"
+        }
+    },
+    "result": {
+        "item": "fabricforfabric:gripped_diamond_sword",
+        "count": 1,
+        "data": {
+            "$": {
+                "value": "i1"
+            }
+        }
+    }
+}
