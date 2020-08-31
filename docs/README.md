@@ -9,17 +9,15 @@ One piece of fabric with one piece of bonemeal makes a piece of faux leather, wh
 <img src="2020-07-31_11.28.22.png" height="300">
 
 ## Recipes 
-### Fabric (can be converted back)
-<img src="2020-07-31_11.28.58-CROPPED.png" height="200">
+Check REI or the in-game recipe book for recipes
 
-### Faux Leather
-<img src="2020-07-31_11.29.22-CROPPED.png" height="200">
-
-### Leather
-<img src="2020-07-31_11.29.26-CROPPED.png" height="200">
-
-### String
-<img src="2020-07-31_11.29.30-CROPPED.png" height="200">
+## Other Features
+### Repair Kits
+Repair kits fully repair any tool, they can be crafted with fabric, some sticks, and two of the tool material (iron, gold or diamond).
+### Bandages
+A bandage can be consumed to give you 3 seconds of regeneration, and is made with fabric and bread.
+### Gripped Tools
+You can add a "grip" to diamond tools to give them a slight stat boost, this is designed to be a stepping stone between diamond tools and netherite. Bear in mind that once a grip is applied, you have to create a new non-gripped pickaxe to upgrade to netherite.
 
 ## Dependencies
 Requires 1.16.1 and the Fabric Mod Loader. <br> <br> <img src="https://i.imgur.com/bTus4wH.png" alt="Requires Fabric API" height="50">
