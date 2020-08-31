@@ -6,6 +6,7 @@ import net.minecraft.entity.effect.StatusEffects;
 import net.minecraft.item.FoodComponent;
 import net.minecraft.item.Item;
 import net.minecraft.item.ItemGroup;
+import net.minecraft.item.ShovelItem;
 import net.minecraft.util.Identifier;
 import net.minecraft.util.Rarity;
 import net.minecraft.util.registry.Registry;
@@ -57,8 +58,14 @@ public class FabricForFabric implements ModInitializer {
         Registry.register(Registry.ITEM, new Identifier("fabricforfabric", "gold_repair_kit"), GOLD_REPAIR_KIT);
         Registry.register(Registry.ITEM, new Identifier("fabricforfabric", "diamond_repair_kit"), DIAMOND_REPAIR_KIT);
         Registry.register(Registry.ITEM, new Identifier("fabricforfabric", "bandage"), BANDAGE);
+        Registry.register(Registry.ITEM, new Identifier("fabricforfabric", "gripped_diamond_pickaxe"), new PickaxeBase(new ToolMaterialGrippedDiamond()));
+        Registry.register(Registry.ITEM, new Identifier("fabricforfabric", "gripped_diamond_shovel"), new ShovelItem(new ToolMaterialGrippedDiamond(),
+        -1, -2.8f, new Item.Settings().group(ItemGroup.TOOLS)));
+        Registry.register(Registry.ITEM, new Identifier("fabricforfabric", "gripped_diamond_sword"), new ShovelItem(new ToolMaterialGrippedDiamond(),
+        4, -2.4f, new Item.Settings().group(ItemGroup.TOOLS)));
 
 
 
     }
+
 }
