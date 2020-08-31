@@ -9,7 +9,7 @@ One piece of fabric with one piece of bonemeal makes a piece of faux leather, wh
 <img src="2020-07-31_11.28.22.png" height="300">
 
 ## Recipes 
-Check REI or the in-game recipe book for recipes
+Check REI or the in-game recipe book for recipes.
 
 ## Other Features
 ### Repair Kits
