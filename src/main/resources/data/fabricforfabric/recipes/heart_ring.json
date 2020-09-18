@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "BGB",
+        "GDG",
+        "BGB"
+    ],
+    "key": {
+        "B": {
+            "item": "fabricforfabric:bandage"
+        },
+        "G": {
+            "item": "minecraft:gold_ingot"
+        },
+        "D": {
+            "item": "minecraft:diamond"
+        }
+    },
+    "result": {
+        "item": "fabricforfabric:heart_ring",
+        "count": 1
+    }
+}

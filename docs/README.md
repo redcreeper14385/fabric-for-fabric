@@ -22,6 +22,8 @@ A bandage can be consumed to give you 3 seconds of regeneration, and is made wit
 You can add a "grip" to diamond tools to give them a slight stat boost, this is designed to be a stepping stone between diamond tools and netherite. You can upgrade to netherite tools as normal.
 ### Fighter's Gloves 
 Fighter's Gloves can be equipped in the Gloves slot of your inventory, use it to increase your attack damage and knockback resistance slightly.
+### Luck and Heart Rings
+The Luck Ring slightly improves mob drops, fishing loot and generated chest loot, while the Heart Ring increases your maximum health by 4 hearts.
 
 ## Dependencies
 Requires 1.16.1 and the Fabric Mod Loader. <br> <br> <img src="https://i.imgur.com/bTus4wH.png" alt="Requires Fabric API" height="50">

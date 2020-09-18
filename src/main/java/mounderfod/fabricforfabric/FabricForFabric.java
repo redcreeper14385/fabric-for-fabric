@@ -81,7 +81,10 @@ public class FabricForFabric implements ModInitializer {
         Registry.register(Registry.ITEM, new Identifier("fabricforfabric", "gripped_diamond_axe"), new AxeBase(new ToolMaterialGrippedDiamond()));
 
         TrinketSlots.addSlot(SlotGroups.HAND, Slots.GLOVES, new Identifier("trinkets", "textures/item/empty_trinket_slot_gloves.png"));
+        TrinketSlots.addSlot(SlotGroups.HAND, Slots.RING, new Identifier("trinkets", "textures/item/empty_trinket_slot_ring.png"));
         Registry.register(Registry.ITEM, new Identifier("fabricforfabric", "fighters_gloves"), new FightersGloves());
+        Registry.register(Registry.ITEM, new Identifier("fabricforfabric", "heart_ring"), new HeartRing());
+        Registry.register(Registry.ITEM, new Identifier("fabricforfabric", "luck_ring"), new LuckRing());
     }
 
 }

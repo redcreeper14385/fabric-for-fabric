@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "LGL",
+        "GDG",
+        "LGL"
+    ],
+    "key": {
+        "L": {
+            "item": "minecraft:lapis_lazuli"
+        },
+        "G": {
+            "item": "minecraft:gold_ingot"
+        },
+        "D": {
+            "item": "minecraft:diamond_block"
+        }
+    },
+    "result": {
+        "item": "fabricforfabric:luck_ring",
+        "count": 1
+    }
+}
