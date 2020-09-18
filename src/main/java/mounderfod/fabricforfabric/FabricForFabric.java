@@ -1,5 +1,8 @@
 package mounderfod.fabricforfabric;
 
+import dev.emi.trinkets.api.SlotGroups;
+import dev.emi.trinkets.api.Slots;
+import dev.emi.trinkets.api.TrinketSlots;
 import net.fabricmc.api.ModInitializer;
 import net.fabricmc.fabric.api.client.itemgroup.FabricItemGroupBuilder;
 import net.minecraft.entity.effect.StatusEffectInstance;
@@ -63,10 +66,13 @@ public class FabricForFabric implements ModInitializer {
         Registry.register(Registry.ITEM, new Identifier("fabricforfabric", "white_fabric"), WHITE_FABRIC);
         Registry.register(Registry.ITEM, new Identifier("fabricforfabric", "yellow_fabric"), YELLOW_FABRIC);
         Registry.register(Registry.ITEM, new Identifier("fabricforfabric", "faux_leather"), FAUX_LEATHER);
+
         Registry.register(Registry.ITEM, new Identifier("fabricforfabric", "iron_repair_kit"), IRON_REPAIR_KIT);
         Registry.register(Registry.ITEM, new Identifier("fabricforfabric", "gold_repair_kit"), GOLD_REPAIR_KIT);
         Registry.register(Registry.ITEM, new Identifier("fabricforfabric", "diamond_repair_kit"), DIAMOND_REPAIR_KIT);
+
         Registry.register(Registry.ITEM, new Identifier("fabricforfabric", "bandage"), BANDAGE);
+
         Registry.register(Registry.ITEM, new Identifier("fabricforfabric", "gripped_diamond_sword"), new SwordItem(new ToolMaterialGrippedDiamond(),
         4, -2.4f, new Item.Settings().group(FabricForFabric.FABRIC_TOOLS)));
         Registry.register(Registry.ITEM, new Identifier("fabricforfabric", "gripped_diamond_shovel"), new ShovelItem(new ToolMaterialGrippedDiamond(),
@@ -74,9 +80,8 @@ public class FabricForFabric implements ModInitializer {
         Registry.register(Registry.ITEM, new Identifier("fabricforfabric", "gripped_diamond_pickaxe"), new PickaxeBase(new ToolMaterialGrippedDiamond()));
         Registry.register(Registry.ITEM, new Identifier("fabricforfabric", "gripped_diamond_axe"), new AxeBase(new ToolMaterialGrippedDiamond()));
 
-
-
-
+        TrinketSlots.addSlot(SlotGroups.HAND, Slots.GLOVES, new Identifier("trinkets", "textures/item/empty_trinket_slot_gloves.png"));
+        Registry.register(Registry.ITEM, new Identifier("fabricforfabric", "fighters_gloves"), new FightersGloves());
     }
 
 }

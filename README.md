@@ -7,4 +7,4 @@ Info about features: https://redcreeper14385.github.io/fabric-for-fabric/
 
 <img src="https://i.imgur.com/bTus4wH.png" alt="Requires Fabric API" height="50">
 
-*Requires 1.16.1 and the Fabric Mod Loader. Thanks to everyone who helped me on the Fabric Discord server, and to malcolmriley on GitHub for the textures, which are available under the (https://creativecommons.org/licenses/by/4.0/)[CC-BY 4.0 License]!*
+*Requires 1.16.1 and the Fabric Mod Loader. Thanks to everyone who helped me on the Fabric Discord server, and to malcolmriley on GitHub for the textures, which are available under the (https://creativecommons.org/licenses/by/4.0/)[CC-BY 4.0 License]! Also thank you to emilyploszaj on GitHub for the base of the Fighter's Gloves texture, which I then recolorized.*

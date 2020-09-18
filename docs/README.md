@@ -19,7 +19,9 @@ Repair kits fully repair any tool, they can be crafted with fabric, some sticks,
 ### Bandages
 A bandage can be consumed to give you 3 seconds of regeneration, and is made with fabric and bread.
 ### Gripped Tools
-You can add a "grip" to diamond tools to give them a slight stat boost, this is designed to be a stepping stone between diamond tools and netherite. Bear in mind that once a grip is applied, you have to create a new non-gripped pickaxe to upgrade to netherite.
+You can add a "grip" to diamond tools to give them a slight stat boost, this is designed to be a stepping stone between diamond tools and netherite. You can upgrade to netherite tools as normal.
+### Fighter's Gloves 
+Fighter's Gloves can be equipped in the Gloves slot of your inventory, use it to increase your attack damage and knockback resistance slightly.
 
 ## Dependencies
 Requires 1.16.1 and the Fabric Mod Loader. <br> <br> <img src="https://i.imgur.com/bTus4wH.png" alt="Requires Fabric API" height="50">
