@@ -39,6 +39,7 @@ dependencies {
 	include "de.siphalor:nbtcrafting-1.16:2+"
 
 	modImplementation "com.github.emilyploszaj:trinkets:${trinkets_version}"
+	include "com.github.emilyploszaj:trinkets:${trinkets_version}"
 }
 
 processResources {
