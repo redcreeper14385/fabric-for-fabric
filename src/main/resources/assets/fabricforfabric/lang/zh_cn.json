@@ -24,9 +24,9 @@
     "item.fabricforfabric.gripped_diamond_sword": "钻石剑 (强化握把)",
     "item.fabricforfabric.gripped_diamond_shovel": "钻石锹 (强化握把)",
     "item.fabricforfabric.gripped_diamond_axe": "钻石斧 (强化握把)",
-    "item.fabricforfabric.heart_ring": "心環",
-    "item.fabricforfabric.luck_ring": "運氣戒指",
-    "item.fabricforfabric.fighters_gloves": "斗士拳套",
+    "item.fabricforfabric.heart_ring": "生命戒指",
+    "item.fabricforfabric.luck_ring": "幸运戒指",
+    "item.fabricforfabric.fighters_gloves": "战士手套",
     "itemGroup.fabricforfabric.tools": "Fabric For Fabric: 工具与物品",
     "itemGroup.fabricforfabric.materials": "Fabric For Fabric: 材料"
   }
