@@ -5,7 +5,7 @@ import net.minecraft.item.ToolMaterial;
 
 public class PickaxeBase extends PickaxeItem {
 
-    protected PickaxeBase(ToolMaterial material) {
+    public PickaxeBase(ToolMaterial material) {
         super(material, 2, -2.8f, new Settings().group(FabricForFabric.FABRIC_TOOLS));
     }
 

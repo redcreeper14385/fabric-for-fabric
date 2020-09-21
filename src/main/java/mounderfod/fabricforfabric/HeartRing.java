@@ -27,6 +27,7 @@ public class HeartRing extends TrinketItem {
     @Override
     public Multimap<EntityAttribute, EntityAttributeModifier> getTrinketModifiers(String group, String slot, UUID uuid, ItemStack stack) {
         Multimap<EntityAttribute, EntityAttributeModifier> map = HashMultimap.create();
+        // Increase Max Health attribute when worn
         map.put(EntityAttributes.GENERIC_MAX_HEALTH, new EntityAttributeModifier(uuid, "Max Health", 8f, EntityAttributeModifier.Operation.ADDITION));
         return map;
 

@@ -27,6 +27,7 @@ public class FightersGloves extends TrinketItem {
     @Override
     public Multimap<EntityAttribute, EntityAttributeModifier> getTrinketModifiers(String group, String slot, UUID uuid, ItemStack stack) {
         Multimap<EntityAttribute, EntityAttributeModifier> map = HashMultimap.create();
+        // Increase Knockback Resistance and Attack Damage attributes when worn
         map.put(EntityAttributes.GENERIC_ATTACK_DAMAGE, new EntityAttributeModifier(uuid, "Attack Damage", 0.5f, EntityAttributeModifier.Operation.MULTIPLY_TOTAL));
         map.put(EntityAttributes.GENERIC_KNOCKBACK_RESISTANCE, new EntityAttributeModifier(uuid, "Knockback Resistance", 0.3f, EntityAttributeModifier.Operation.ADDITION));
         return map;
