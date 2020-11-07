@@ -1,5 +1,5 @@
 ## Fabric for Fabric!
-### NOTE: Downloads are at the bottom of the page.
+### NOTE: Downloads are found here: https://www.curseforge.com/minecraft/mc-mods/fabric-for-fabric
 
 Join the Discord here: https://discord.gg/fwvZAdp
 
@@ -30,12 +30,3 @@ Requires 1.16.1 and the Fabric Mod Loader. <br> <br> <img src="https://i.imgur.c
 
 ## Credits
 Thanks to everyone who helped me on the Fabric Discord server, and to /u/MCThe_Paragon for the textures!
-
-## Downloads <br>
-
-| Version Number | Working? | MC Version | Download Link                                                                                                                        | Notes                                                                                |
-|----------------|----------|------------|--------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|
-| 1.2.3          | YES      | 1.16.1     | [Download](https://www.curseforge.com/minecraft/mc-mods/fabric-for-fabric/download/3012505) | Latest release.                                                                       |
-| 1.2.2          | YES      | 1.16.1     | [Download](https://www.curseforge.com/minecraft/mc-mods/fabric-for-fabric/download/3012483) |                                                                                      |
-| 1.2.1          | YES      | 1.16.1     | [Download](https://www.curseforge.com/minecraft/mc-mods/fabric-for-fabric/download/3008907) |                                                                                      |
-| 1.1.0          | YES      | 1.16.1     | [Download](https://www.curseforge.com/minecraft/mc-mods/fabric-for-fabric/download/3007186) |                                                                                      |
