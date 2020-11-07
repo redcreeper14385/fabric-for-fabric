@@ -1,7 +1,6 @@
 ## Fabric for Fabric!
-### NOTE: Downloads are found here: https://www.curseforge.com/minecraft/mc-mods/fabric-for-fabric
-
-Join the Discord here: https://discord.gg/fwvZAdp
+Downloads are found here: [https://www.curseforge.com/minecraft/mc-mods/fabric-for-fabric](https://www.curseforge.com/minecraft/mc-mods/fabric-for-fabric) <br>
+Join the Discord here: [https://discord.gg/fwvZAdp](https://discord.gg/fwvZAdp)
 
 This mod adds fabric to Fabric. One wool block makes 9 pieces of fabric, and 9 pieces of fabric make one wool block.
 One piece of fabric with one piece of bonemeal makes a piece of faux leather, which in turn can be converted to leather. Enjoy!
