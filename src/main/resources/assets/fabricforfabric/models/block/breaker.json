@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "top": "fabricforfabric:block/breaker_sides",
+    "bottom": "fabricforfabric:block/breaker_bottom",
+    "side": "fabricforfabric:block/breaker_sides"
+  }
+}

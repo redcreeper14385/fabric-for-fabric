@@ -25,5 +25,10 @@
     "item.fabricforfabric.gripped_diamond_shovel": "Diamond Shovel (Gripped)",
     "item.fabricforfabric.gripped_diamond_axe": "Diamond Axe (Gripped)",
     "itemGroup.fabricforfabric.tools": "Fabric For Fabric: Tools & Items",
-    "itemGroup.fabricforfabric.materials": "Fabric For Fabric: Materials"
+    "itemGroup.fabricforfabric.materials": "Fabric For Fabric: Materials",
+    "block.fabricforfabric.breaker": "Breaker",
+    "block.fabricforfabric.breaker.tooltip1": "Breaks the block below when given a redstone signal.",
+    "block.fabricforfabric.breaker.tooltip2": "Can break (but not drop) bedrock.",
+    "block.fabricforfabric.phaser": "Phaser",
+    "block.fabricforfabric.phaser.tooltip": "Entities can move through when given a redstone signal."
   }

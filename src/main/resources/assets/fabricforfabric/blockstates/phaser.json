@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "passthrough=false": { "model": "fabricforfabric:block/phaser" },
+    "passthrough=true": { "model": "fabricforfabric:block/phaser_on" }
+  }
+}
