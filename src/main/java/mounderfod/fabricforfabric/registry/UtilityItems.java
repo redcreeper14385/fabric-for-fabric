@@ -15,7 +15,7 @@ public class UtilityItems {
     public static final Item GOLD_REPAIR_KIT = new Item(new Item.Settings().group(FabricForFabric.FABRIC_TOOLS).maxCount(1).rarity(Rarity.UNCOMMON));
     public static final Item DIAMOND_REPAIR_KIT = new Item(new Item.Settings().group(FabricForFabric.FABRIC_TOOLS).maxCount(1).rarity(Rarity.UNCOMMON));
     // Bandage
-    public static final Item BANDAGE = new Item(new Item.Settings().group(FabricForFabric.FABRIC_TOOLS).maxCount(16).food(new FoodComponent.Builder().alwaysEdible().hunger(0).statusEffect(new StatusEffectInstance(StatusEffects.REGENERATION, 20*3), 1.0f).build()));
+    public static final Item BANDAGE = new Item(new Item.Settings().group(FabricForFabric.FABRIC_TOOLS).maxCount(16).food(new FoodComponent.Builder().alwaysEdible().hunger(0).statusEffect(new StatusEffectInstance(StatusEffects.REGENERATION, 20*5), 1.0f).build()));
 
 
     public static void RegisterItems() {

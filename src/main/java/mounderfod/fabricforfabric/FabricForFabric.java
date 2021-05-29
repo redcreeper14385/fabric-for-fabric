@@ -1,25 +1,13 @@
 package mounderfod.fabricforfabric;
 
-import dev.emi.trinkets.api.SlotGroups;
-import dev.emi.trinkets.api.Slots;
-import dev.emi.trinkets.api.TrinketSlots;
 import mounderfod.fabricforfabric.registry.GrippedTools;
 import mounderfod.fabricforfabric.registry.MaterialItems;
-import mounderfod.fabricforfabric.registry.TrinketItems;
 import mounderfod.fabricforfabric.registry.UtilityItems;
 import net.fabricmc.api.ModInitializer;
 import net.fabricmc.fabric.api.client.itemgroup.FabricItemGroupBuilder;
-import net.minecraft.entity.effect.StatusEffectInstance;
-import net.minecraft.entity.effect.StatusEffects;
-import net.minecraft.item.FoodComponent;
-import net.minecraft.item.Item;
 import net.minecraft.item.ItemGroup;
 import net.minecraft.item.ItemStack;
-import net.minecraft.item.ShovelItem;
-import net.minecraft.item.SwordItem;
 import net.minecraft.util.Identifier;
-import net.minecraft.util.Rarity;
-import net.minecraft.util.registry.Registry;
 
 public class FabricForFabric implements ModInitializer {
 
@@ -32,13 +20,9 @@ public class FabricForFabric implements ModInitializer {
 
     @Override
     public void onInitialize() {
-        // Register Trinket Slots
-        TrinketSlots.addSlot(SlotGroups.HAND, Slots.GLOVES, new Identifier("trinkets", "textures/item/empty_trinket_slot_gloves.png"));
-        TrinketSlots.addSlot(SlotGroups.HAND, Slots.RING, new Identifier("trinkets", "textures/item/empty_trinket_slot_ring.png"));
         // Register Items
         GrippedTools.RegisterItems();
         MaterialItems.RegisterItems();
-        TrinketItems.RegisterItems();
         UtilityItems.RegisterItems();
     }
 
