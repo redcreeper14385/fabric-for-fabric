@@ -27,7 +27,7 @@ public class MaterialItems {
     public static final Item FAUX_LEATHER = new Item(new Item.Settings().group(FabricForFabric.FABRIC_MATERIALS));
 
 
-    public static void RegisterItems() {
+    public static void register() {
         // Fabric Items
         Registry.register(Registry.ITEM, new Identifier("fabricforfabric", "black_fabric"), BLACK_FABRIC);
         Registry.register(Registry.ITEM, new Identifier("fabricforfabric", "blue_fabric"), BLUE_FABRIC);

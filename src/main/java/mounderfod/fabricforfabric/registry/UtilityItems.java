@@ -18,7 +18,7 @@ public class UtilityItems {
     public static final Item BANDAGE = new Item(new Item.Settings().group(FabricForFabric.FABRIC_TOOLS).maxCount(16).food(new FoodComponent.Builder().alwaysEdible().hunger(0).statusEffect(new StatusEffectInstance(StatusEffects.REGENERATION, 20*5), 1.0f).build()));
 
 
-    public static void RegisterItems() {
+    public static void register() {
         // Repair Kits
         Registry.register(Registry.ITEM, new Identifier("fabricforfabric", "iron_repair_kit"), IRON_REPAIR_KIT);
         Registry.register(Registry.ITEM, new Identifier("fabricforfabric", "gold_repair_kit"), GOLD_REPAIR_KIT);
