@@ -1,17 +1,21 @@
 package mounderfod.fabricforfabric.block;
 
+import mounderfod.fabricforfabric.api.block.MachineBlock;
 import net.minecraft.block.Block;
 import net.minecraft.block.BlockState;
-import net.minecraft.block.Blocks;
+import net.minecraft.entity.player.PlayerEntity;
 import net.minecraft.server.world.ServerWorld;
+import net.minecraft.util.ActionResult;
+import net.minecraft.util.Hand;
+import net.minecraft.util.hit.BlockHitResult;
 import net.minecraft.util.math.BlockPos;
 import net.minecraft.world.World;
 
 import java.util.Random;
 
-public class BreakerBlock extends Block {
+public class BreakerBlock extends MachineBlock {
     public BreakerBlock() {
-        super(Settings.copy(Blocks.IRON_BLOCK).requiresTool());
+        super();
     }
 
     @Override

@@ -1,8 +1,7 @@
-package mounderfod.fabricforfabric.block.item;
+package mounderfod.fabricforfabric.api.item;
 
-import net.minecraft.block.Block;
 import net.minecraft.client.item.TooltipContext;
-import net.minecraft.item.BlockItem;
+import net.minecraft.item.Item;
 import net.minecraft.item.ItemStack;
 import net.minecraft.text.Text;
 import net.minecraft.text.TranslatableText;
@@ -12,12 +11,12 @@ import org.jetbrains.annotations.Nullable;
 
 import java.util.List;
 
-public class BlockItemWithTooltip extends BlockItem {
+public class ItemWithTooltip extends Item {
 
     public TranslatableText[] tooltipText;
 
-    public BlockItemWithTooltip(Block block, Settings settings, TranslatableText[] tooltipText) {
-        super(block, settings);
+    public ItemWithTooltip(Settings settings, TranslatableText[] tooltipText) {
+        super(settings);
         this.tooltipText = tooltipText;
     }
 

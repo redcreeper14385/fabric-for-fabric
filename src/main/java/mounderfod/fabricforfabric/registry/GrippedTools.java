@@ -1,9 +1,9 @@
 package mounderfod.fabricforfabric.registry;
 
-import mounderfod.fabricforfabric.AxeBase;
+import mounderfod.fabricforfabric.tool.AxeBase;
 import mounderfod.fabricforfabric.FabricForFabric;
-import mounderfod.fabricforfabric.PickaxeBase;
-import mounderfod.fabricforfabric.ToolMaterialGrippedDiamond;
+import mounderfod.fabricforfabric.tool.PickaxeBase;
+import mounderfod.fabricforfabric.tool.ToolMaterialGrippedDiamond;
 import net.minecraft.item.Item;
 import net.minecraft.item.ShovelItem;
 import net.minecraft.item.SwordItem;

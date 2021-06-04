@@ -1,4 +1,4 @@
-package mounderfod.fabricforfabric;
+package mounderfod.fabricforfabric.tool;
 
 import net.minecraft.item.Items;
 import net.minecraft.item.ToolMaterial;

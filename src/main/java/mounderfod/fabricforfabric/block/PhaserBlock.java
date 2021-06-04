@@ -1,5 +1,6 @@
 package mounderfod.fabricforfabric.block;
 
+import mounderfod.fabricforfabric.api.block.MachineBlock;
 import mounderfod.fabricforfabric.registry.Machines;
 import net.minecraft.block.*;
 import net.minecraft.entity.player.PlayerEntity;
@@ -18,14 +19,13 @@ import net.minecraft.world.World;
 
 import java.util.Random;
 
-public class PhaserBlock extends Block {
+public class PhaserBlock extends MachineBlock {
 
     public static final BooleanProperty PASSTHROUGH;
 
     public PhaserBlock() {
-        super(Settings.copy(Blocks.IRON_BLOCK).requiresTool());
+        super();
         this.setDefaultState((BlockState) this.getDefaultState().with(PASSTHROUGH, false));
-
     }
 
     @Override

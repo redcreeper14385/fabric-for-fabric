@@ -1,5 +1,6 @@
-package mounderfod.fabricforfabric;
+package mounderfod.fabricforfabric.tool;
 
+import mounderfod.fabricforfabric.FabricForFabric;
 import net.minecraft.item.AxeItem;
 import net.minecraft.item.ToolMaterial;
 
