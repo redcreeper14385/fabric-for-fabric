@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "FDF",
+    "HSH"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:smooth_stone"
+    },
+    "F": {
+      "tag": "fabricforfabric:fabrics"
+    },
+    "D": {
+      "item": "minecraft:dispenser"
+    },
+    "H": {
+      "item": "minecraft:redstone"
+    },
+    "S": {
+      "item": "fabricforfabric:gripped_diamond_pickaxe"
+    }
+  },
+  "result": {
+    "item": "fabricforfabric:breaker",
+    "count": 1
+  }
+}
