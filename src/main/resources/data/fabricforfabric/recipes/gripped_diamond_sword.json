@@ -1,28 +1,12 @@
 {
-    "type": "minecraft:crafting_shaped",
-    "pattern": [
-        " # ",
-        "FDF",
-        " # "
-    ],
-    "key": {
-        "#": {
-            "item": "minecraft:diamond"
-        },
-        "F": {
-            "tag": "fabricforfabric:fabrics"
-        },
-        "D": {
-            "item": "minecraft:diamond_sword"
-        }
+    "type": "minecraft:smithing",
+    "base": {
+        "item": "minecraft:diamond_sword"
+    },
+    "addition": {
+        "item": "fabricforfabric:grip"
     },
     "result": {
-        "item": "fabricforfabric:gripped_diamond_sword",
-        "count": 1,
-        "data": {
-            "$": {
-                "value": "i1"
-            }
-        }
+        "item": "fabricforfabric:gripped_diamond_sword"
     }
 }

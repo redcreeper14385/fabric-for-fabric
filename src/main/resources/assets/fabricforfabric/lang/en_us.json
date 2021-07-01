@@ -18,6 +18,8 @@
     "item.fabricforfabric.faux_leather": "Faux Leather",
     "item.fabricforfabric.bandage": "Bandage",
     "item.fabricforfabric.bandage.tooltip": "Grants regeneration for a length of time.",
+    "item.fabricforfabric.grip": "Grip",
+    "item.fabricforfabric.grip.tooltip": "Can be applied to tools to strengthen them.",
     "item.fabricforfabric.gripped_diamond_pickaxe": "Diamond Pickaxe (Gripped)",
     "item.fabricforfabric.gripped_diamond_sword": "Diamond Sword (Gripped)",
     "item.fabricforfabric.gripped_diamond_shovel": "Diamond Shovel (Gripped)",
