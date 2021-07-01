@@ -1,10 +1,9 @@
 {
-    "type": "nbtcrafting:cauldron",
-    "input": {
+    "type": "minecraft:smoking",
+    "ingredient": {
         "item": "fabricforfabric:faux_leather"
     },
-    "result": {
-        "item": "minecraft:leather"
-    },
-    "levels": 1
+    "result": "minecraft:leather",
+    "experience": 0.1,
+    "cookingtime": 60
 }
