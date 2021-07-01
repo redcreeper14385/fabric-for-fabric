@@ -17,7 +17,7 @@ public class FabricForFabric implements ModInitializer {
             new Identifier("fabricforfabric", "materials"), () -> new ItemStack(MaterialItems.WHITE_FABRIC));
 
     public static final ItemGroup FABRIC_TOOLS = FabricItemGroupBuilder.build(
-            new Identifier("fabricforfabric", "tools"), () -> new ItemStack(UtilityItems.DIAMOND_REPAIR_KIT));
+            new Identifier("fabricforfabric", "tools"), () -> new ItemStack(UtilityItems.BANDAGE));
 
     public static final ItemGroup FABRIC_MACHINES = FabricItemGroupBuilder.build(
             new Identifier("fabricforfabric", "machines"), () -> new ItemStack(Machines.PHASER_BLOCK));
