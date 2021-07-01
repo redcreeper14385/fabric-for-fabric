@@ -26,6 +26,7 @@
     "item.fabricforfabric.gripped_diamond_axe": "Diamond Axe (Gripped)",
     "itemGroup.fabricforfabric.tools": "Fabric For Fabric: Tools & Items",
     "itemGroup.fabricforfabric.materials": "Fabric For Fabric: Materials",
+    "itemGroup.fabricforfabric.machines": "Fabric For Fabric: Machines",
     "block.fabricforfabric.breaker": "Breaker",
     "block.fabricforfabric.breaker.tooltip1": "Breaks the block below when given a redstone signal.",
     "block.fabricforfabric.breaker.tooltip2": "Can break (but not drop) bedrock.",
