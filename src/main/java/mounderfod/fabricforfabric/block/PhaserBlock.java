@@ -2,22 +2,16 @@ package mounderfod.fabricforfabric.block;
 
 import mounderfod.fabricforfabric.api.block.MachineBlock;
 import mounderfod.fabricforfabric.registry.Machines;
-import net.minecraft.block.*;
-import net.minecraft.entity.player.PlayerEntity;
-import net.minecraft.item.ItemStack;
-import net.minecraft.server.world.ServerWorld;
+import net.minecraft.block.Block;
+import net.minecraft.block.BlockState;
+import net.minecraft.block.ShapeContext;
 import net.minecraft.state.StateManager;
 import net.minecraft.state.property.BooleanProperty;
-import net.minecraft.util.ActionResult;
-import net.minecraft.util.Hand;
-import net.minecraft.util.hit.BlockHitResult;
 import net.minecraft.util.math.BlockPos;
 import net.minecraft.util.shape.VoxelShape;
 import net.minecraft.util.shape.VoxelShapes;
 import net.minecraft.world.BlockView;
 import net.minecraft.world.World;
-
-import java.util.Random;
 
 public class PhaserBlock extends MachineBlock {
 
@@ -25,13 +19,13 @@ public class PhaserBlock extends MachineBlock {
 
     public PhaserBlock() {
         super();
-        this.setDefaultState((BlockState) this.getDefaultState().with(PASSTHROUGH, false));
+        this.setDefaultState(this.getDefaultState().with(PASSTHROUGH, false));
     }
 
     @Override
     public void neighborUpdate(BlockState state, World world, BlockPos pos, Block block, BlockPos fromPos, boolean notify) {
-        if ((Boolean) state.get(PASSTHROUGH) != world.isReceivingRedstonePower(pos)) {
-            world.setBlockState(pos, (BlockState) state.cycle(PASSTHROUGH));
+        if (state.get(PASSTHROUGH) != world.isReceivingRedstonePower(pos)) {
+            world.setBlockState(pos, state.cycle(PASSTHROUGH));
         }
     }
 
