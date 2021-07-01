@@ -7,24 +7,24 @@ import net.minecraft.util.registry.Registry;
 
 public class MaterialItems {
     // Fabric Items
-    public static final Item BLACK_FABRIC = new Item(new Item.Settings().group(FabricForFabric.FABRIC_MATERIALS));
-    public static final Item BLUE_FABRIC = new Item(new Item.Settings().group(FabricForFabric.FABRIC_MATERIALS));
-    public static final Item BROWN_FABRIC = new Item(new Item.Settings().group(FabricForFabric.FABRIC_MATERIALS));
-    public static final Item CYAN_FABRIC = new Item(new Item.Settings().group(FabricForFabric.FABRIC_MATERIALS));
-    public static final Item GRAY_FABRIC = new Item(new Item.Settings().group(FabricForFabric.FABRIC_MATERIALS));
-    public static final Item GREEN_FABRIC = new Item(new Item.Settings().group(FabricForFabric.FABRIC_MATERIALS));
-    public static final Item LIGHT_BLUE_FABRIC = new Item(new Item.Settings().group(FabricForFabric.FABRIC_MATERIALS));
-    public static final Item LIME_FABRIC = new Item(new Item.Settings().group(FabricForFabric.FABRIC_MATERIALS));
-    public static final Item MAGENTA_FABRIC = new Item(new Item.Settings().group(FabricForFabric.FABRIC_MATERIALS));
-    public static final Item ORANGE_FABRIC = new Item(new Item.Settings().group(FabricForFabric.FABRIC_MATERIALS));
-    public static final Item PINK_FABRIC = new Item(new Item.Settings().group(FabricForFabric.FABRIC_MATERIALS));
-    public static final Item PURPLE_FABRIC = new Item(new Item.Settings().group(FabricForFabric.FABRIC_MATERIALS));
-    public static final Item RED_FABRIC = new Item(new Item.Settings().group(FabricForFabric.FABRIC_MATERIALS));
-    public static final Item LIGHT_GRAY_FABRIC = new Item(new Item.Settings().group(FabricForFabric.FABRIC_MATERIALS));
-    public static final Item WHITE_FABRIC = new Item(new Item.Settings().group(FabricForFabric.FABRIC_MATERIALS));
-    public static final Item YELLOW_FABRIC = new Item(new Item.Settings().group(FabricForFabric.FABRIC_MATERIALS));
+    public static final Item BLACK_FABRIC = new Item(new Item.Settings().group(FabricForFabric.F4F));
+    public static final Item BLUE_FABRIC = new Item(new Item.Settings().group(FabricForFabric.F4F));
+    public static final Item BROWN_FABRIC = new Item(new Item.Settings().group(FabricForFabric.F4F));
+    public static final Item CYAN_FABRIC = new Item(new Item.Settings().group(FabricForFabric.F4F));
+    public static final Item GRAY_FABRIC = new Item(new Item.Settings().group(FabricForFabric.F4F));
+    public static final Item GREEN_FABRIC = new Item(new Item.Settings().group(FabricForFabric.F4F));
+    public static final Item LIGHT_BLUE_FABRIC = new Item(new Item.Settings().group(FabricForFabric.F4F));
+    public static final Item LIME_FABRIC = new Item(new Item.Settings().group(FabricForFabric.F4F));
+    public static final Item MAGENTA_FABRIC = new Item(new Item.Settings().group(FabricForFabric.F4F));
+    public static final Item ORANGE_FABRIC = new Item(new Item.Settings().group(FabricForFabric.F4F));
+    public static final Item PINK_FABRIC = new Item(new Item.Settings().group(FabricForFabric.F4F));
+    public static final Item PURPLE_FABRIC = new Item(new Item.Settings().group(FabricForFabric.F4F));
+    public static final Item RED_FABRIC = new Item(new Item.Settings().group(FabricForFabric.F4F));
+    public static final Item LIGHT_GRAY_FABRIC = new Item(new Item.Settings().group(FabricForFabric.F4F));
+    public static final Item WHITE_FABRIC = new Item(new Item.Settings().group(FabricForFabric.F4F));
+    public static final Item YELLOW_FABRIC = new Item(new Item.Settings().group(FabricForFabric.F4F));
     // Faux Leather
-    public static final Item FAUX_LEATHER = new Item(new Item.Settings().group(FabricForFabric.FABRIC_MATERIALS));
+    public static final Item FAUX_LEATHER = new Item(new Item.Settings().group(FabricForFabric.F4F));
 
 
     public static void register() {
